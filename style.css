@@ -1,0 +1,33 @@
+#display {
+  display: block;
+  height: 100px;
+  background-color: grey;
+  opacity: .5;
+  margin: auto;
+  text-align: center;
+  font-size: 36px;
+  font-family: monospace;
+  line-height: 100px;
+}
+
+#calculator {
+	border: 1px solid black;
+	display: inline-block;
+
+}
+
+table {
+	margin: auto;
+}
+
+button {
+	display: inline-block;
+	text-align: center;
+	width: 30px;
+	height: 30px;
+  font-size: 20px;
+}
+
+body {
+  text-align: center;
+}
